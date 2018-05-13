@@ -1,0 +1,33 @@
+body{
+
+}
+.all {
+    text-align: center;
+}
+
+.imdb {
+    text-align: center;
+    opacity: .5;
+
+}
+#pan  {
+    opacity: .5;
+
+}
+#body {
+
+    background-image: url("https://thumbs.gfycat.com/IncomparableFelineHornbill-size_restricted.gif");
+}
+form{
+    padding: 10px;
+    font-size: 17px;
+    color: white;
+    border-left: none;
+    cursor: pointer;
+}
+
+h1 {
+    color: white;
+
+}
+
